@@ -10,9 +10,11 @@ Generative Adversarial Networks (GANs) have shown to produce excellent results i
 ## Comparison Between Training Samples and Generated Samples
 ### Training Sines
 <img src="https://github.com/janek-gross/adversarial_signal_generation/blob/master/training_squences.png?raw=true" width="800"  />
+
 ### Generated Sines
 <img src="https://github.com/janek-gross/adversarial_signal_generation/blob/master/generated_sequences.png?raw=true" width="800"  />
 
 ## Generalization to Longer Sequences
 The following generated sequences are 4 times longer than the training sequences. Despite the rather short training the long sequences are often realistic.
+
 <img src="https://github.com/janek-gross/adversarial_signal_generation/blob/master/long_sequences.png?raw=true" width="800"  />
