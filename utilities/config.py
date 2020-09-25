@@ -21,7 +21,7 @@ class Config(object):
     n_hidden_units_g = 300
     
     #leaky ReLU parameter
-    alpha = 0.02
+    alpha = 0.01
     
     def display():
         for i in dir(Config):
